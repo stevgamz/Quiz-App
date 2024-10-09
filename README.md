@@ -2,6 +2,7 @@
 
 ## Challenge Frontend React.js from DOT Indonesia for intern's recruitment purpose
 Buat Aplikasi Kuis menggunakan teknologi React dengan kriteria sebagai berikut:
+
      a. Memiliki fitur login
      b. Untuk api soal bisa ambil dari https://opentdb.com/
      c. Jumlah & type soal bebas.
